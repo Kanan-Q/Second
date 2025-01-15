@@ -1,0 +1,402 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kanan\\Desktop\\Second\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CE69828D-2387-4296-A52A-2F4FE8E86C0A}|WebAppTest3\\WebAppTest3.csproj|c:\\users\\kanan\\desktop\\second\\webapptest3\\areas\\admin\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE69828D-2387-4296-A52A-2F4FE8E86C0A}|WebAppTest3\\WebAppTest3.csproj|solutionrelative:webapptest3\\areas\\admin\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE69828D-2387-4296-A52A-2F4FE8E86C0A}|WebAppTest3\\WebAppTest3.csproj|c:\\users\\kanan\\desktop\\second\\webapptest3\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CE69828D-2387-4296-A52A-2F4FE8E86C0A}|WebAppTest3\\WebAppTest3.csproj|solutionrelative:webapptest3\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE69828D-2387-4296-A52A-2F4FE8E86C0A}|WebAppTest3\\WebAppTest3.csproj|c:\\users\\kanan\\desktop\\second\\webapptest3\\wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{CE69828D-2387-4296-A52A-2F4FE8E86C0A}|WebAppTest3\\WebAppTest3.csproj|solutionrelative:webapptest3\\wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE69828D-2387-4296-A52A-2F4FE8E86C0A}|WebAppTest3\\WebAppTest3.csproj|c:\\users\\kanan\\desktop\\second\\webapptest3\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CE69828D-2387-4296-A52A-2F4FE8E86C0A}|WebAppTest3\\WebAppTest3.csproj|solutionrelative:webapptest3\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE69828D-2387-4296-A52A-2F4FE8E86C0A}|WebAppTest3\\WebAppTest3.csproj|c:\\users\\kanan\\desktop\\second\\webapptest3\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE69828D-2387-4296-A52A-2F4FE8E86C0A}|WebAppTest3\\WebAppTest3.csproj|solutionrelative:webapptest3\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE69828D-2387-4296-A52A-2F4FE8E86C0A}|WebAppTest3\\WebAppTest3.csproj|c:\\users\\kanan\\desktop\\second\\webapptest3\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE69828D-2387-4296-A52A-2F4FE8E86C0A}|WebAppTest3\\WebAppTest3.csproj|solutionrelative:webapptest3\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE69828D-2387-4296-A52A-2F4FE8E86C0A}|WebAppTest3\\WebAppTest3.csproj|c:\\users\\kanan\\desktop\\second\\webapptest3\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CE69828D-2387-4296-A52A-2F4FE8E86C0A}|WebAppTest3\\WebAppTest3.csproj|solutionrelative:webapptest3\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE69828D-2387-4296-A52A-2F4FE8E86C0A}|WebAppTest3\\WebAppTest3.csproj|c:\\users\\kanan\\desktop\\second\\webapptest3\\areas\\admin\\views\\employee\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CE69828D-2387-4296-A52A-2F4FE8E86C0A}|WebAppTest3\\WebAppTest3.csproj|solutionrelative:webapptest3\\areas\\admin\\views\\employee\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE69828D-2387-4296-A52A-2F4FE8E86C0A}|WebAppTest3\\WebAppTest3.csproj|c:\\users\\kanan\\desktop\\second\\webapptest3\\areas\\admin\\views\\employee\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CE69828D-2387-4296-A52A-2F4FE8E86C0A}|WebAppTest3\\WebAppTest3.csproj|solutionrelative:webapptest3\\areas\\admin\\views\\employee\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE69828D-2387-4296-A52A-2F4FE8E86C0A}|WebAppTest3\\WebAppTest3.csproj|c:\\users\\kanan\\desktop\\second\\webapptest3\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE69828D-2387-4296-A52A-2F4FE8E86C0A}|WebAppTest3\\WebAppTest3.csproj|solutionrelative:webapptest3\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE69828D-2387-4296-A52A-2F4FE8E86C0A}|WebAppTest3\\WebAppTest3.csproj|c:\\users\\kanan\\desktop\\second\\webapptest3\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE69828D-2387-4296-A52A-2F4FE8E86C0A}|WebAppTest3\\WebAppTest3.csproj|solutionrelative:webapptest3\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE69828D-2387-4296-A52A-2F4FE8E86C0A}|WebAppTest3\\WebAppTest3.csproj|c:\\users\\kanan\\desktop\\second\\webapptest3\\migrations\\20250115170619_a.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE69828D-2387-4296-A52A-2F4FE8E86C0A}|WebAppTest3\\WebAppTest3.csproj|solutionrelative:webapptest3\\migrations\\20250115170619_a.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE69828D-2387-4296-A52A-2F4FE8E86C0A}|WebAppTest3\\WebAppTest3.csproj|c:\\users\\kanan\\desktop\\second\\webapptest3\\viewmodels\\employees\\employeeupdatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE69828D-2387-4296-A52A-2F4FE8E86C0A}|WebAppTest3\\WebAppTest3.csproj|solutionrelative:webapptest3\\viewmodels\\employees\\employeeupdatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE69828D-2387-4296-A52A-2F4FE8E86C0A}|WebAppTest3\\WebAppTest3.csproj|c:\\users\\kanan\\desktop\\second\\webapptest3\\viewmodels\\employees\\employeecreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE69828D-2387-4296-A52A-2F4FE8E86C0A}|WebAppTest3\\WebAppTest3.csproj|solutionrelative:webapptest3\\viewmodels\\employees\\employeecreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE69828D-2387-4296-A52A-2F4FE8E86C0A}|WebAppTest3\\WebAppTest3.csproj|c:\\users\\kanan\\desktop\\second\\webapptest3\\areas\\admin\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CE69828D-2387-4296-A52A-2F4FE8E86C0A}|WebAppTest3\\WebAppTest3.csproj|solutionrelative:webapptest3\\areas\\admin\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE69828D-2387-4296-A52A-2F4FE8E86C0A}|WebAppTest3\\WebAppTest3.csproj|c:\\users\\kanan\\desktop\\second\\webapptest3\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CE69828D-2387-4296-A52A-2F4FE8E86C0A}|WebAppTest3\\WebAppTest3.csproj|solutionrelative:webapptest3\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE69828D-2387-4296-A52A-2F4FE8E86C0A}|WebAppTest3\\WebAppTest3.csproj|c:\\users\\kanan\\desktop\\second\\webapptest3\\areas\\admin\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE69828D-2387-4296-A52A-2F4FE8E86C0A}|WebAppTest3\\WebAppTest3.csproj|solutionrelative:webapptest3\\areas\\admin\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE69828D-2387-4296-A52A-2F4FE8E86C0A}|WebAppTest3\\WebAppTest3.csproj|c:\\users\\kanan\\desktop\\second\\webapptest3\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE69828D-2387-4296-A52A-2F4FE8E86C0A}|WebAppTest3\\WebAppTest3.csproj|solutionrelative:webapptest3\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE69828D-2387-4296-A52A-2F4FE8E86C0A}|WebAppTest3\\WebAppTest3.csproj|c:\\users\\kanan\\desktop\\second\\webapptest3\\areas\\admin\\views\\department\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CE69828D-2387-4296-A52A-2F4FE8E86C0A}|WebAppTest3\\WebAppTest3.csproj|solutionrelative:webapptest3\\areas\\admin\\views\\department\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE69828D-2387-4296-A52A-2F4FE8E86C0A}|WebAppTest3\\WebAppTest3.csproj|c:\\users\\kanan\\desktop\\second\\webapptest3\\areas\\admin\\views\\department\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CE69828D-2387-4296-A52A-2F4FE8E86C0A}|WebAppTest3\\WebAppTest3.csproj|solutionrelative:webapptest3\\areas\\admin\\views\\department\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE69828D-2387-4296-A52A-2F4FE8E86C0A}|WebAppTest3\\WebAppTest3.csproj|c:\\users\\kanan\\desktop\\second\\webapptest3\\areas\\admin\\views\\department\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CE69828D-2387-4296-A52A-2F4FE8E86C0A}|WebAppTest3\\WebAppTest3.csproj|solutionrelative:webapptest3\\areas\\admin\\views\\department\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE69828D-2387-4296-A52A-2F4FE8E86C0A}|WebAppTest3\\WebAppTest3.csproj|c:\\users\\kanan\\desktop\\second\\webapptest3\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE69828D-2387-4296-A52A-2F4FE8E86C0A}|WebAppTest3\\WebAppTest3.csproj|solutionrelative:webapptest3\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE69828D-2387-4296-A52A-2F4FE8E86C0A}|WebAppTest3\\WebAppTest3.csproj|c:\\users\\kanan\\desktop\\second\\webapptest3\\viewmodels\\departments\\departmentcreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE69828D-2387-4296-A52A-2F4FE8E86C0A}|WebAppTest3\\WebAppTest3.csproj|solutionrelative:webapptest3\\viewmodels\\departments\\departmentcreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\kanan\\Desktop\\Second\\WebAppTest3\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "WebAppTest3\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\kanan\\Desktop\\Second\\WebAppTest3\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "WebAppTest3\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-15T18:04:15.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "EmployeeUpdateVM.cs",
+              "DocumentMoniker": "C:\\Users\\kanan\\Desktop\\Second\\WebAppTest3\\ViewModels\\Employees\\EmployeeUpdateVM.cs",
+              "RelativeDocumentMoniker": "WebAppTest3\\ViewModels\\Employees\\EmployeeUpdateVM.cs",
+              "ToolTip": "C:\\Users\\kanan\\Desktop\\Second\\WebAppTest3\\ViewModels\\Employees\\EmployeeUpdateVM.cs",
+              "RelativeToolTip": "WebAppTest3\\ViewModels\\Employees\\EmployeeUpdateVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T16:48:14.324Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\kanan\\Desktop\\Second\\WebAppTest3\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "WebAppTest3\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\kanan\\Desktop\\Second\\WebAppTest3\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "WebAppTest3\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T16:47:15.317Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\kanan\\Desktop\\Second\\WebAppTest3\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebAppTest3\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\kanan\\Desktop\\Second\\WebAppTest3\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "WebAppTest3\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-15T16:56:05.12Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\kanan\\Desktop\\Second\\WebAppTest3\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "WebAppTest3\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\kanan\\Desktop\\Second\\WebAppTest3\\Models\\Employee.cs",
+              "RelativeToolTip": "WebAppTest3\\Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T16:47:15.337Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\kanan\\Desktop\\Second\\WebAppTest3\\Areas\\Admin\\Views\\Employee\\Update.cshtml",
+              "RelativeDocumentMoniker": "WebAppTest3\\Areas\\Admin\\Views\\Employee\\Update.cshtml",
+              "ToolTip": "C:\\Users\\kanan\\Desktop\\Second\\WebAppTest3\\Areas\\Admin\\Views\\Employee\\Update.cshtml",
+              "RelativeToolTip": "WebAppTest3\\Areas\\Admin\\Views\\Employee\\Update.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-15T16:47:15.307Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "20250115170619_A.cs",
+              "DocumentMoniker": "C:\\Users\\kanan\\Desktop\\Second\\WebAppTest3\\Migrations\\20250115170619_A.cs",
+              "RelativeDocumentMoniker": "WebAppTest3\\Migrations\\20250115170619_A.cs",
+              "ToolTip": "C:\\Users\\kanan\\Desktop\\Second\\WebAppTest3\\Migrations\\20250115170619_A.cs",
+              "RelativeToolTip": "WebAppTest3\\Migrations\\20250115170619_A.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T17:06:20.141Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\kanan\\Desktop\\Second\\WebAppTest3\\Areas\\Admin\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "WebAppTest3\\Areas\\Admin\\Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\kanan\\Desktop\\Second\\WebAppTest3\\Areas\\Admin\\Controllers\\EmployeeController.cs*",
+              "RelativeToolTip": "WebAppTest3\\Areas\\Admin\\Controllers\\EmployeeController.cs*",
+              "ViewState": "AgIAAEEAAAAAAAAAAAA3wGgAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T16:47:15.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "style.css",
+              "DocumentMoniker": "C:\\Users\\kanan\\Desktop\\Second\\WebAppTest3\\wwwroot\\css\\style.css",
+              "RelativeDocumentMoniker": "WebAppTest3\\wwwroot\\css\\style.css",
+              "ToolTip": "C:\\Users\\kanan\\Desktop\\Second\\WebAppTest3\\wwwroot\\css\\style.css",
+              "RelativeToolTip": "WebAppTest3\\wwwroot\\css\\style.css",
+              "ViewState": "AgIAABoAAAAAAAAAAAAWwDkAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-01-15T18:06:06.846Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\kanan\\Desktop\\Second\\WebAppTest3\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "WebAppTest3\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\kanan\\Desktop\\Second\\WebAppTest3\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "WebAppTest3\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T16:47:15.319Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Users\\kanan\\Desktop\\Second\\WebAppTest3\\Models\\Department.cs",
+              "RelativeDocumentMoniker": "WebAppTest3\\Models\\Department.cs",
+              "ToolTip": "C:\\Users\\kanan\\Desktop\\Second\\WebAppTest3\\Models\\Department.cs",
+              "RelativeToolTip": "WebAppTest3\\Models\\Department.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T16:47:15.328Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\kanan\\Desktop\\Second\\WebAppTest3\\Areas\\Admin\\Views\\Employee\\Create.cshtml",
+              "RelativeDocumentMoniker": "WebAppTest3\\Areas\\Admin\\Views\\Employee\\Create.cshtml",
+              "ToolTip": "C:\\Users\\kanan\\Desktop\\Second\\WebAppTest3\\Areas\\Admin\\Views\\Employee\\Create.cshtml",
+              "RelativeToolTip": "WebAppTest3\\Areas\\Admin\\Views\\Employee\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-15T16:47:15.325Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Contact.cshtml",
+              "DocumentMoniker": "C:\\Users\\kanan\\Desktop\\Second\\WebAppTest3\\Views\\Home\\Contact.cshtml",
+              "RelativeDocumentMoniker": "WebAppTest3\\Views\\Home\\Contact.cshtml",
+              "ToolTip": "C:\\Users\\kanan\\Desktop\\Second\\WebAppTest3\\Views\\Home\\Contact.cshtml",
+              "RelativeToolTip": "WebAppTest3\\Views\\Home\\Contact.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-15T16:47:15.334Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DepartmentController.cs",
+              "DocumentMoniker": "C:\\Users\\kanan\\Desktop\\Second\\WebAppTest3\\Areas\\Admin\\Controllers\\DepartmentController.cs",
+              "RelativeDocumentMoniker": "WebAppTest3\\Areas\\Admin\\Controllers\\DepartmentController.cs",
+              "ToolTip": "C:\\Users\\kanan\\Desktop\\Second\\WebAppTest3\\Areas\\Admin\\Controllers\\DepartmentController.cs",
+              "RelativeToolTip": "WebAppTest3\\Areas\\Admin\\Controllers\\DepartmentController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T16:47:15.323Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "EmployeeCreateVM.cs",
+              "DocumentMoniker": "C:\\Users\\kanan\\Desktop\\Second\\WebAppTest3\\ViewModels\\Employees\\EmployeeCreateVM.cs",
+              "RelativeDocumentMoniker": "WebAppTest3\\ViewModels\\Employees\\EmployeeCreateVM.cs",
+              "ToolTip": "C:\\Users\\kanan\\Desktop\\Second\\WebAppTest3\\ViewModels\\Employees\\EmployeeCreateVM.cs",
+              "RelativeToolTip": "WebAppTest3\\ViewModels\\Employees\\EmployeeCreateVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAIAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T16:47:15.339Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\kanan\\Desktop\\Second\\WebAppTest3\\Areas\\Admin\\Views\\Employee\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebAppTest3\\Areas\\Admin\\Views\\Employee\\Index.cshtml",
+              "ToolTip": "C:\\Users\\kanan\\Desktop\\Second\\WebAppTest3\\Areas\\Admin\\Views\\Employee\\Index.cshtml",
+              "RelativeToolTip": "WebAppTest3\\Areas\\Admin\\Views\\Employee\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-15T16:47:15.279Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\kanan\\Desktop\\Second\\WebAppTest3\\appsettings.json",
+              "RelativeDocumentMoniker": "WebAppTest3\\appsettings.json",
+              "ToolTip": "C:\\Users\\kanan\\Desktop\\Second\\WebAppTest3\\appsettings.json",
+              "RelativeToolTip": "WebAppTest3\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-15T16:50:44.764Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\kanan\\Desktop\\Second\\WebAppTest3\\Models\\User.cs",
+              "RelativeDocumentMoniker": "WebAppTest3\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\kanan\\Desktop\\Second\\WebAppTest3\\Models\\User.cs",
+              "RelativeToolTip": "WebAppTest3\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T16:47:15.331Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\kanan\\Desktop\\Second\\WebAppTest3\\Areas\\Admin\\Views\\Department\\Update.cshtml",
+              "RelativeDocumentMoniker": "WebAppTest3\\Areas\\Admin\\Views\\Department\\Update.cshtml",
+              "ToolTip": "C:\\Users\\kanan\\Desktop\\Second\\WebAppTest3\\Areas\\Admin\\Views\\Department\\Update.cshtml",
+              "RelativeToolTip": "WebAppTest3\\Areas\\Admin\\Views\\Department\\Update.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-15T16:47:15.342Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\kanan\\Desktop\\Second\\WebAppTest3\\Areas\\Admin\\Views\\Department\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebAppTest3\\Areas\\Admin\\Views\\Department\\Index.cshtml",
+              "ToolTip": "C:\\Users\\kanan\\Desktop\\Second\\WebAppTest3\\Areas\\Admin\\Views\\Department\\Index.cshtml",
+              "RelativeToolTip": "WebAppTest3\\Areas\\Admin\\Views\\Department\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-15T16:47:15.345Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\kanan\\Desktop\\Second\\WebAppTest3\\Areas\\Admin\\Views\\Department\\Create.cshtml",
+              "RelativeDocumentMoniker": "WebAppTest3\\Areas\\Admin\\Views\\Department\\Create.cshtml",
+              "ToolTip": "C:\\Users\\kanan\\Desktop\\Second\\WebAppTest3\\Areas\\Admin\\Views\\Department\\Create.cshtml",
+              "RelativeToolTip": "WebAppTest3\\Areas\\Admin\\Views\\Department\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-15T16:47:15.348Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "DepartmentCreateVM.cs",
+              "DocumentMoniker": "C:\\Users\\kanan\\Desktop\\Second\\WebAppTest3\\ViewModels\\Departments\\DepartmentCreateVM.cs",
+              "RelativeDocumentMoniker": "WebAppTest3\\ViewModels\\Departments\\DepartmentCreateVM.cs",
+              "ToolTip": "C:\\Users\\kanan\\Desktop\\Second\\WebAppTest3\\ViewModels\\Departments\\DepartmentCreateVM.cs",
+              "RelativeToolTip": "WebAppTest3\\ViewModels\\Departments\\DepartmentCreateVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T16:47:15.35Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\kanan\\Desktop\\Second\\WebAppTest3\\DAL\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "WebAppTest3\\DAL\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\kanan\\Desktop\\Second\\WebAppTest3\\DAL\\AppDbContext.cs",
+              "RelativeToolTip": "WebAppTest3\\DAL\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T16:47:15.353Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -65,7 +65,7 @@ namespace WebAppTest3.Areas.Admin.Controllers
         [HttpGet]
         public async Task<IActionResult> Update(int? id)
         {
-            ViewBag.Categories = await _context.Departments.Where(x => !x.IsDeleted).ToListAsync();
+            ViewBag.Departments = await _context.Departments.Where(x => !x.IsDeleted).ToListAsync();
             if (!id.HasValue) return BadRequest();
             var data = await _context.Employees.Where(x => x.Id == id).Select(x => new EmployeeUpdateVM
             {
@@ -73,6 +73,7 @@ namespace WebAppTest3.Areas.Admin.Controllers
                 Surname = x.Surname,
                 Comment = x.Comment,
                 DepartmentId= x.DepartmentId,
+                CoverPhoto=x.Photo,
                 
             }).FirstOrDefaultAsync();
             if (data is null) return NotFound();
@@ -91,17 +92,13 @@ namespace WebAppTest3.Areas.Admin.Controllers
                 {
                     ModelState.AddModelError("Photo", "image deyil");
                 }
-                if (vm.Photo.Length < 5 * 1024 * 1024)
-                {
-                    ModelState.AddModelError("Photo", "5mb dan coxdu");
-                }
+                //if (vm.Photo.Length > 1 * 1024 * 1024)
+                //{
+                //    ModelState.AddModelError("Photo", "1mb dan coxdu");
+                //}
             }
-            if (!ModelState.IsValid)
-            {
-                ViewBag.Departments = await _context.Departments.Where(x => !x.IsDeleted).ToListAsync();
-                return View();
-
-            }
+            ViewBag.Departments = await _context.Departments.Where(x => !x.IsDeleted).ToListAsync();
+     
 
             var data = await _context.Employees.Where(x => x.Id == id).FirstOrDefaultAsync();
             if (data is null) return NotFound();

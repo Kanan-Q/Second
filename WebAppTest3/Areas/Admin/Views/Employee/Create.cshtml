@@ -10,19 +10,22 @@
     <div class="card-body">
         <form enctype="multipart/form-data" method="post">
             <div class="form-group">
-                <label asp-for="Name">Title</label>
+                <label asp-for="Name">Name</label>
                 <input class="form-control" asp-for="Name">
                 <span class="text-danger" asp-validation-for="Name"></span>
             </div>
             <div class="form-group">
-                <label asp-for="Surname">Subtitle</label>
+                <label asp-for="Surname">Surname</label>
                 <input class="form-control" asp-for="Surname">
                 <span class="text-danger" asp-validation-for="Surname"></span>
-            </div><div class="form-group">
-                <label asp-for="Comment">Subtitle</label>
+            </div>
+            
+             <div class="form-group">
+                <label asp-for="Comment">Comment</label>
                 <input class="form-control" asp-for="Comment">
                 <span class="text-danger" asp-validation-for="Comment"></span>
             </div>
+           
 
             <label asp-for="DepartmentId">Department</label>
             <select asp-for="DepartmentId" class="form-control" asp-items='new SelectList(ViewBag.Departments,"Id","Name")'>
